@@ -1,0 +1,15 @@
+$primary-color: #ffd700;
+
+@import 'animate.css';
+
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts/helvetica-nue.ttf') format('ttf');
+
+}
+
+input,
+textarea {
+  font-family: 'Helvetica Neue';
+}
